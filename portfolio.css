@@ -1,6 +1,7 @@
 :root {
   --primary: #2563eb;
   --dark: #1e293b;
+  --darker: #111822;
   --light: #f8fafc;
   --gray: #64748b;
   --highlight: #3b82f6;
@@ -729,7 +730,7 @@ footer {
     top: 70px;
     right: -100%;
     flex-direction: column;
-    background-color: var(--dark);
+    background-color: var(--darker);
     width: 70%;
     height: 100vh;
     padding: 2rem;
